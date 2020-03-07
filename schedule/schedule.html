@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="schedule.css">
   <script src="schedule.js"></script>
 </head>
-<body>
+<body onload="load_current_month()">
 
 <h1>Case Review</h1>
 
@@ -24,8 +24,9 @@
         &#10095;
   </button>
   <ul>
-    <li id="month_name">Placeholder<br>
-      <span style="font-size:18px">2017</span>
+    <li id="month_name"></li>
+    <li>
+      <span id="current_year" style="font-size:18px"></span>
     </li>
   </ul>
 </div>
