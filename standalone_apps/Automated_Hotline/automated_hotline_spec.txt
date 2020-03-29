@@ -1,0 +1,12 @@
+Automated_Hotline
+
+Minimum Requirements
+- Scrape A numbers from google drive
+- Automate calling the hotline
+- Save the date given for that A number
+- Email list of A numbers and dates to someone
+
+Extra
+- Scrape A numbers from Uwazi
+- Update hearing date if needed in google drive
+    - Or uwazi, may want to not do the google drive
