@@ -1,0 +1,11 @@
+Bulk_Texting
+
+Minimum Requirements
+- Scrape phone numbers from google drive
+- Check that numbers are still in service before being charged, it possible
+- Make an easy way for 1 person (with permission) to send a mass text
+
+Extra
+- setup texting api (Twilio?) with billing info for the organization, or is
+    easily refunded
+- Send reply texts to email?
