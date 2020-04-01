@@ -71,11 +71,6 @@ body {font-family: Verdana, sans-serif;}
   color: #777;
 }
 
-.days li .active {
-  padding: 5px;
-  background: #1abc9c;
-  color: white !important
-}
 
 /* Add media queries for smaller screens */
 @media screen and (max-width:720px) {
