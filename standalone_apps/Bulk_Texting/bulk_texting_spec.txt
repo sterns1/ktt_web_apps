@@ -5,7 +5,10 @@ Minimum Requirements
 - Check that numbers are still in service before being charged, it possible
 - Make an easy way for 1 person (with permission) to send a mass text
 
-Extra
-- setup texting api (Twilio?) with billing info for the organization, or is
-    easily refunded
-- Send reply texts to email?
+Twilio next steps:
+- Keep db of verified numbers (saves on cost)
+- Use pricing library for logging/emailing
+
+
+House keeping:
+- remove twilio api from logging
